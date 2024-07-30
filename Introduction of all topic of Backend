@@ -1,0 +1,15 @@
+Node Js Basics.......
+-> It is a JavaScript run time environment.
+
+   Story-- js se backend nahi ban sakta kyoki js ke pass wo functionalities nahi hai jinse backend banta hai.
+           ryan dhal isne socha js se backend bannana chahiye.
+           google chrome ka V8 engine ka code open source hai and yeh us code mein chhedkahani kar raha hai
+           fir usne socha ki humme toh js mai code karna hai kyoki v8Engine bana hai c++ mai.
+           he wrap the v8 engine code with js code so when we give js code then it handle by this wrapper then 
+           this wrapper convert this code into c++ code  and give to v8 Engine and Thus,develope a server.
+           The combination of whole of this is caleed as Node js.
+           so,when the node js run then he create the server buit after closing it the server also off.
+           it just like a generator.That's why node js called as Js run time environment.
+
+
+           

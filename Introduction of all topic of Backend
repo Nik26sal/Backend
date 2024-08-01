@@ -13,3 +13,19 @@ Node Js Basics.......
 
 
            
+type of database---
+            2type SQL and NoSQL
+SQL -- In it data is represented in the form of tables.
+NoSQL -- In this data is represented in the form of object.
+
+
+type of servers un backend..----
+          two type of servers in backend 1.Application server
+                                         2.Database server
+ Application server is used to create data that stored in database and at the time retrieving it it make contact
+ to the database server.
+
+database--->collection--->document 
+mongoosee.connect -- connect to database.
+mongoosee.model -- collection created
+mongoose.schema -- document are created
